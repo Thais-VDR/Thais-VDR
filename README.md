@@ -14,6 +14,11 @@
  <br>
  
 <div> 
+  <a href="" target="_blank"><img src="" target="_blank"></a>
+  <a href="" target="_blank"><img src="" target="_blank"></a>
+ <a href="" target="_blank"><img src="" target="_blank"></a> 
+  <a href = ""><img src="" target="_blank"></a>
+
   ![Snake animation](https://github.com/Thais-VDR/Thais-VDR/blob/output/github-contribution-grid-snake.svg)
 
 </div>
