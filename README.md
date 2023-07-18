@@ -18,4 +18,3 @@
  </div>
 
 
-  ![Snake animation](https://github.com/Thais-VDR/Thais-VDR/blob/output/github-contribution-grid-snake.svg)  
