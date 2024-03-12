@@ -14,7 +14,6 @@
   <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="mysql" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   
- <a href="https://picasion.com/"><img align ="right" width="150" height="150" src="https://i.picasion.com/pic92/90ee6a010b107bab1c41d3ca1e3b5c0a.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>   
 </div>
  
 ##
