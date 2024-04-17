@@ -5,12 +5,14 @@ Os meus trajetos é ser uma programadora profissional na área da Tecnologia.
 <div style="display: inline_block"><br>
  Tenho conhecimento em frameworks: Bootstrap e React.
 <br/>
+  <br/>
   <img align="center" alt="bootstrap" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
    <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <br/>
   <br/>
  E conhecimentos de Linguagens de programação: Como JavaScript, C++, Html e Css.
  <br/>
+  <br/>
    <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
