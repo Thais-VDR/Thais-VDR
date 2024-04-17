@@ -16,6 +16,7 @@ Os meus trajetos é ser uma programadora profissional na área da Tecnologia.
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">       
  <br/>
+  <br/>
   E conhecimento em banco de dados: Mysql.
   <br/>
   <img align="center" alt="mysql" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
