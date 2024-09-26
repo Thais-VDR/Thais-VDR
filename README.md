@@ -28,6 +28,7 @@ Os meus trajetos é ser uma programadora profissional na área da Tecnologia.
 Estudos continuos:
 - Java
 - Python
+- Dart
 ##
 <div>
 <a href="https://thaisvitoriadr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
