@@ -10,7 +10,7 @@ Os meus trajetos é ser uma programadora profissional na área da Tecnologia.
    <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <br/>
   <br/>
- E conhecimentos de Linguagens de programação: Como JavaScript, C++, Html e Css.
+ E conhecimentos de Linguagens de programação: JavaScript e C++.
  <br/>
   <br/>
    <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +19,7 @@ Os meus trajetos é ser uma programadora profissional na área da Tecnologia.
   <img align="center" alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">       
  <br/>
   <br/>
-  E conhecimento em banco de dados: Mysql.
+  E conhecimento em banco de dados: MYSQL.
   <br/>
   <img align="center" alt="mysql" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   
@@ -27,6 +27,7 @@ Os meus trajetos é ser uma programadora profissional na área da Tecnologia.
 
 Estudos continuos:
 - Java
+- Python
 ##
 <div>
 <a href="https://thaisvitoriadr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
