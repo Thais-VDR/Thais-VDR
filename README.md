@@ -6,8 +6,7 @@
 - 📫 Contato no email: thaisvitoriadr@gmail.com
   
 
-<br/>
-<br/>
+
 
 <img 
     align="left" 
