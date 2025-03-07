@@ -1,4 +1,4 @@
-### <H2>Olá! Eu sou a Thaís Vitória 👋<H2/>
+### <h2>Olá! Eu sou a Thaís Vitória 👋<h2/>
 
 
 
