@@ -1,4 +1,4 @@
-### <h1>Olá! Eu sou a Thaís Vitória 👋<h1>
+<h1>Olá! Eu sou a Thaís Vitória 👋<h1>
 
 - 🔭 Apaixonada em Tecnologia e Games
 - 💼 Desenvolvedora Flutter
@@ -8,7 +8,7 @@
 
 <br/>
 
-##
+
 
 <br/>
 
