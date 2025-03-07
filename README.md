@@ -1,10 +1,12 @@
-### Olá! Eu sou a Thaís Vitória 👋
+### <H2>Olá! Eu sou a Thaís Vitória 👋<H2/>
+
 
 
 - 🔭 Apaixonada em Tecnologia e Games
 - 💼 Desenvolvedora Flutter
 - 🌱 Estudante de Engenharia de Software
 - 📫 Contato no email: thaisvitoriadr@gmail.com
+  
 
 <br/>
 
