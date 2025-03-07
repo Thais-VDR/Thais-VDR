@@ -144,7 +144,7 @@
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/pin/?username=Thais-VDR&repo=github-readme-stats&theme=tokyonightcustom_title=Tecnologias&langs_count=7" 
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Thais-VDR&repo=github-readme-stats&theme=tokyonightcustom_title=Tecnologias&langs_count=9" 
 />
 
 </p>
