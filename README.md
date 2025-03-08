@@ -5,6 +5,7 @@
 - 💼 Desenvolvedora Flutter
 - 🌱 Estudante de Engenharia de Software
 - 📫 Contato no email: thaisvitoriadr@gmail.com
+- 🔍 Linkedin: https://www.linkedin.com/in/thaís-vitória-97b60128b
   
 
 ##
