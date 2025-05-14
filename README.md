@@ -2,7 +2,6 @@
 
 
 - 🔭 Apaixonada em Tecnologia e Games
-- 💼 Desenvolvedora Flutter
 - 🌱 Estudante de Engenharia de Software
 - 📫 Contato no email: thaisvitoriadr@gmail.com
 - 🔍 Linkedin: https://www.linkedin.com/in/tha%C3%ADs-vit%C3%B3ria-dias-rosa-97b60128b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
