@@ -112,11 +112,7 @@
 <div align=center>
 
 <img src="https://raw.githubusercontent.com/Thais-VDR/thaisvitoriadr/output/snake.svg" alt="Snake animation" />
-
   
 </div>
 
 ##
-
-
-
