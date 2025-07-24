@@ -18,6 +18,7 @@ jobs:
           github_user_name: Thais-VDR
           outputs: |
             ./dist/snake.svg
+            theme: github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
